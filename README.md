@@ -1,2 +1,8 @@
 # SeekForDifferentFiles
-Busca por diferença nos arquivos entre dois diretórios.
+Seek for different files between two folders.
+
+Usage:
+  -newDir string
+        New directory used to compare.
+  -oldDir string
+        Old directory used to compare.
