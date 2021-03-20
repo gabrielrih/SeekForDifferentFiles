@@ -2,7 +2,7 @@
 
 Seek for different files between two folders.
 
-How to compile:
+Compile:
 ```shell
 $ go build seekForDifferences.go
 ```
