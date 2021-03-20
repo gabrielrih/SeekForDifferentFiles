@@ -1,5 +1,11 @@
 # SeekForDifferentFiles
+
 Seek for different files between two folders.
+
+How to compile:
+```shell
+$ go build seekForDifferences.go
+```
 
 Usage:
 ```shell
